@@ -24,8 +24,7 @@ jobs:
 
       - name: Build
         run: |
-          git submodule init themes/nostyleplease
-          git submodule update
+          git submodule init
           hugo --gc --minify
 
       - name: Deploy
