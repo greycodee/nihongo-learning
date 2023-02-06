@@ -5,7 +5,7 @@ name: hugo Auto
 
 on:
   push:
-    branches: [hugo]
+    branches: [main]
 
 jobs:
   deploy:
