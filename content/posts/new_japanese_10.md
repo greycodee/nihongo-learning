@@ -1,7 +1,7 @@
 ---
 title: "十時間目"
 date: 2023-02-10T09:56:16+08:00
-draft: true
+draft: false
 ---
 
 ## 文法（ぶんぽ）
