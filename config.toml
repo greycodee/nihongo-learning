@@ -2,3 +2,9 @@ baseURL = 'https://blog.greycode.top/nihongo-learning/'
 languageCode = 'en-us'
 title = '日本語を勉強します'
 theme = 'nostyleplease'
+
+## 读取html语法标签
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
